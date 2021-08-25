@@ -14,19 +14,19 @@ Everybody pray for me. **
 
 # My Social and Programming Online Judge Link:-
 
-Github Link :  (https://github.com/Murad9288)
+Linkedin Link :  https://www.linkedin.com/in/mhmprogrammer81818/
 
-LeetCode Link : (https://leetcode.com/murad928/)
+LeetCode Link : https://leetcode.com/murad928/
 
-HackerRank Link :  (https://www.hackerrank.com/muradhossainm01)
+HackerRank Link :  https://www.hackerrank.com/muradhossainm01
 
-DimikOj Link :  (https://dimikoj.com/users/3372/14murad)
+DimikOj Link :  https://dimikoj.com/users/3372/14murad
 
-URI Link :  (https://www.urionlinejudge.com.br/judge/en/profile/410612)
+URI Link :  https://www.urionlinejudge.com.br/judge/en/profile/410612
 
-Toph Link :  (https://toph.co/u/murad928)
+Toph Link :  https://toph.co/u/murad928
 
-Facebook Link :  (https://www.facebook.com/mdmurad.hossainmiraj.9)
+Facebook Link :  https://www.facebook.com/mdmurad.hossainmiraj.9
 
 
 # My Address : -
