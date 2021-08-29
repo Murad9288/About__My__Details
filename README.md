@@ -4,7 +4,7 @@
 Programming is my favorite hobby and everything new in programming attract me always. I am always 
 ready to take challenge and learn with my best.
 
-I am trying to be an ideal Programmer and my goal is to be a IOS developer Insha-Allah.
+I am trying to be an ideal Programmer and my goal is to be a software developer Insha-Allah.
 Everybody pray for me. **
 
 
