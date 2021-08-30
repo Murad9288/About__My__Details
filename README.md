@@ -1,8 +1,8 @@
 # ABOUT__MY__DETAILS
 
 ** I am currently a student. I am studying computer technology at Brahmanbaria Polytechnic Institute. 
-Programming is my favorite hobby and everything new in programming attract me always. I am always 
-ready to take challenge and learn with my best.
+Programming is my favorite hobby and everything new in programming attracts me always. I am always 
+ready to take challenges and learn with my best.
 
 I am trying to be an ideal Programmer and my goal is to be a software developer Insha-Allah.
 Everybody pray for me. **
