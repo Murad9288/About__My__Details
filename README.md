@@ -4,7 +4,7 @@
 Programming is my favorite hobby and everything new in programming attracts me always. I am always 
 ready to take challenges and learn with my best.
 
-I am trying to be an ideal Programmer and my goal is to be a software developer Insha-Allah.
+I am trying to be an ideal Programmer and my goal is to be a Ios software developer Insha-Allah.
 Everybody pray for me. **
 
 
@@ -34,3 +34,8 @@ Facebook Link :  https://www.facebook.com/mdmurad.hossainmiraj.9
 Present Address : Bijoynagar, Brahmanbaria, Chittagong, Bangladesh.
 
 Local Address : Thakurgaon, Rangpur, Bangladesh.
+
+
+========================
+
+
