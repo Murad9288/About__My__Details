@@ -10,7 +10,7 @@ Everybody pray for me. **
 
 # My little experience is described below:-
 - Programming Language :  Python, C.
-- Others :  Algorithm, Data-structure, OOP
+- Others :  Algorithm, Data-structure, Object Oriented Programming.
 
 # My Social and Programming Online Judge Link:-
 
