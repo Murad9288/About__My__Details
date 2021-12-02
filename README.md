@@ -26,7 +26,17 @@ URI Link :  https://www.urionlinejudge.com.br/judge/en/profile/410612
 
 Toph Link :  https://toph.co/u/murad928
 
+Codeforces Link: https://codeforces.com/profile/MuradHossain
+
+CodeChef Link: https://www.codechef.com/users/md_murad_01#
+
+CodeMarshal Link: https://algo.codemarshal.org/users/Murad9288
+
 Facebook Link :  https://www.facebook.com/mdmurad.hossainmiraj.9
+
+Twiteer Link: https://twitter.com/murad_miraj
+
+Instagram Link: https://www.instagram.com/e_m__murad__hossain/
 
 
 # My Address : -
