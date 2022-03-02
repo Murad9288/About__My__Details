@@ -13,18 +13,31 @@ Everybody pray for me. **
 My Social and Programming Online Judge Link:-
 
 LeetCode Link : https://leetcode.com/murad928/
+
 Github Link : https://github.com/Murad9288
+
 HackerRank Link : https://www.hackerrank.com/muradhossainm01
+
 DimikOj Link : https://dimikoj.com/users/3372/14murad
+
 URI Link : https://www.urionlinejudge.com.br/judge/en/profile/410612
+
 Toph Link : https://toph.co/u/murad928
+
 Codeforces Link: https://codeforces.com/profile/MuradHossain
+
 CodeChef Link: https://www.codechef.com/users/md_murad_01#
+
 CodeMarshal Link: https://algo.codemarshal.org/users/Murad9288
+
 HackerEarth Link: https://www.hackerearth.com/@muradhossainm01
+
 Facebook Link : https://www.facebook.com/mdmurad.hossainmiraj.9
+
 Twiteer Link: https://twitter.com/murad_miraj
+
 Instagram Link: https://www.instagram.com/e_m__murad__hossain/
+
 
 My YouTube Channel Link: https://www.youtube.com/channel/UCBfxSahO2_gQLhnc_CAxyrQ
 
