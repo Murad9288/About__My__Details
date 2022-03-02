@@ -1,54 +1,35 @@
-# ABOUT__MY__DETAILS
+** I am currently a student. I am studying computer technology at Brahmanbaria Polytechnic Institute. Programming is my favorite hobby and everything new in programming attracts me always. I am always ready to take challenges and learn with my best.
 
-** I am currently a student. I am studying computer technology at Brahmanbaria Polytechnic Institute. 
-Programming is my favorite hobby and everything new in programming attracts me always. I am always 
-ready to take challenges and learn with my best.
+I'm trying to that as much as possible, trained and encourage of my institute juniors about Competitive Programming . And I also make a Programming Club for build a strong programming community in my institute. I am participated in different onsite and online programming contest and also i participated Math Olympiad. I have solved 1000+ problems on various online judge websites.
 
-I am trying to be an ideal Programmer and my goal is to be a Ios software developer Insha-Allah.
+I am trying to be an ideal programmer and my goal is to be a IOS Developer. Insha-Allah.
 Everybody pray for me. **
 
 
 # My little experience is described below:-
-- Programming Language :  Python, C.
-- Others :  Algorithm, Data-structure, Object Oriented Programming, 500+ problem solving.
+- Programming Language : Python, C.
+- Others : Algorithm, Data-structure, OOP, Problem Solving, Competitive Porgrammer.
 
-# My Social and Programming Online Judge Link:-
-
-Linkedin Link :  https://www.linkedin.com/in/mhmprogrammer81818/
+My Social and Programming Online Judge Link:-
 
 LeetCode Link : https://leetcode.com/murad928/
-
-HackerRank Link :  https://www.hackerrank.com/muradhossainm01
-
-DimikOj Link :  https://dimikoj.com/users/3372/14murad
-
-URI Link :  https://www.urionlinejudge.com.br/judge/en/profile/410612
-
-Toph Link :  https://toph.co/u/murad928
-
+Github Link : https://github.com/Murad9288
+HackerRank Link : https://www.hackerrank.com/muradhossainm01
+DimikOj Link : https://dimikoj.com/users/3372/14murad
+URI Link : https://www.urionlinejudge.com.br/judge/en/profile/410612
+Toph Link : https://toph.co/u/murad928
 Codeforces Link: https://codeforces.com/profile/MuradHossain
-
 CodeChef Link: https://www.codechef.com/users/md_murad_01#
-
 CodeMarshal Link: https://algo.codemarshal.org/users/Murad9288
-
-W3school Link:   https://my-learning.w3schools.com/
-
-Facebook Link :  https://www.facebook.com/mdmurad.hossainmiraj.9
-
+HackerEarth Link: https://www.hackerearth.com/@muradhossainm01
+Facebook Link : https://www.facebook.com/mdmurad.hossainmiraj.9
 Twiteer Link: https://twitter.com/murad_miraj
-
 Instagram Link: https://www.instagram.com/e_m__murad__hossain/
 
-
+My YouTube Channel Link: https://www.youtube.com/channel/UCBfxSahO2_gQLhnc_CAxyrQ
 
 # My Address : -
-
 Present Address : Bijoynagar, Brahmanbaria, Chittagong, Bangladesh.
-
 Local Address : Thakurgaon, Rangpur, Bangladesh.
 
-
 ========================
-
-
