@@ -1,6 +1,6 @@
 ** I am currently a student. I am studying computer technology at Brahmanbaria Polytechnic Institute. Programming is my favorite hobby and everything new in programming attracts me always. I am always ready to take challenges and learn with my best.
 
-I'm trying to that as much as possible, trained and encourage of my institute juniors about Competitive Programming . And I also make a Programming Club for build a strong programming community in my institute. I am participated in different onsite and online programming contest and also i participated Math Olympiad. I have solved 1000+ problems on various online judge websites.
+I'm trying to that as much as possible, trained and encourage of my institute juniors about Competitive Programming . And I also make a Programming Club for build a strong programming community in my institute. I am participated in different onsite and online programming contest and also i participated Math Olympiad. I have solved 1100+ problems on various online judge websites.
 
 I am trying to be an ideal programmer and my goal is to be a IOS Developer. Insha-Allah.
 Everybody pray for me. **
